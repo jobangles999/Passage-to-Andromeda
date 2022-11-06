@@ -2,14 +2,7 @@
    "markers" : [
       {
          "pin" : "red",
-         "text" : "Waypoint 8, the start",
-         "x" : -104.625,
-         "y" : -0.8125,
-         "z" : -151.906
-      },
-	  {
-         "pin" : "cyan",
-         "text" : "Thueche LS-A d1-54",
+         "text" : "Waypoint 8, the Start",
          "x" : 54504.100,
          "y" : 14.383,
          "z" : -0.266
@@ -27,7 +20,8 @@
          "x" : 55910.061,
          "y" : 19.273,
          "z" : -0.411
-      },{
+      },
+	  {
          "pin" : "cyan",
          "text" : "03 Eufarb UT-Z d13-37", 
          "x" : 57736.215,
@@ -38,8 +32,8 @@
          "pin" : "cyan",
          "text" : "04 Prai Gruia QT-Q e5-6",
          "x" : 56927.820,
-         "y" : 24.595,
-         "z" : -151.906
+         "y" : 22.867,
+         "z" : -0.038
       },
 	  {
          "pin" : "cyan",
@@ -49,7 +43,7 @@
          "z" : 0.066
       },
 	  {
-         "pin" : "cyan",
+         "pin" : "green",
          "text" : "Final - Thuechoea ZE-A g0",
          "x" : 59714.035,
          "y" : 26.879,
