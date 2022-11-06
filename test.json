@@ -1,0 +1,18 @@
+{
+   "markers" : [
+      {
+         "pin" : "green",
+         "text" : "This is a sample marker!\nIt spans two lines of text.",
+         "x" : -104.625,
+         "y" : -0.8125,
+         "z" : -151.906
+      },
+      {
+         "pin" : "carrier",
+         "text" : "This is a sample marker too!",
+         "x" : -247.812,
+         "y" : -43.8438,
+         "z" : 64.0312
+      }
+   ]
+}
