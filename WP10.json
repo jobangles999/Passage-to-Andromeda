@@ -1,18 +1,18 @@
 {
    "markers" : [
       {
-         "pin" : "green",
-         "text" : "Just Checking",
-         "x" : -104.625,
-         "y" : -0.8125,
-         "z" : -151.906
+         "pin" : "greencarrier",
+         "text" : "Thuechoea ZE-A g0 (DSSA Shepard's Dream / Brothers And Sisters Of The Void)",
+         "x" :  -26997.03125,
+         "y" :  -48.75,
+         "z" : 53262.78125
       },
       {
-         "pin" : "carrier",
-         "text" : "Hope this works",
-         "x" : -247.812,
-         "y" : -43.8438,
-         "z" : 64.0312
+         "pin" : "cyan",
+         "text" : "Flyoo Groa SO-Z e0 (DSSA Solsen’s Alastor / Alastor",
+         "x" : -26482.4375,
+         "y" : -78.78125,
+         "z" : 50335.125
       }
    ]
 }
