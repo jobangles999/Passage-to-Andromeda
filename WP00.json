@@ -36,8 +36,8 @@
          "z" : 37984.65625
       },
 	  {
-         "pin" : "cyan - Pru Bre PM-W e1-11 (Baade & Zwicky's Eye)",
-         "text" : "WP06",
+         "pin" : "cyan",
+         "text" : "WP06 - Pru Bre PM-W e1-11 (Baade & Zwicky's Eye)",
          "x" : -2719.8125,
          "y" : 31.6875,
          "z" : 51799.84375
