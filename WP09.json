@@ -1,53 +1,6 @@
 {
    "markers" : [
-      {
-         "pin" : "red",
-         "text" : "Waypoint 8, the start",
-         "x" : 54504.10,
-         "y" : 14.34,
-         "z" : -0.266
-      },
-{
-         "pin" : "cyan",
-         "text" : "01 Syritchi IW-E d11-70",
-         "x" : 57163.54,
-         "y" : 15.93,
-         "z" : 0.01
-      },
-	  {
-         "pin" : "cyan",
-         "text" : "02 Thuechoo VY-A e1",
-         "x" : 55910.01,
-         "y" : 19.27,
-         "z" : -0.41
-      },
-	  {
-         "pin" : "cyan",
-         "text" : "03 Eufarb UT-Z d13-37", 
-         "x" : 57736.21,
-         "y" : 22.87,
-         "z" : -0.04
-      },
-	  {
-         "pin" : "cyan",
-         "text" : "04 Prai Gruia QT-Q e5-6",
-         "x" : 56927.82,
-         "y" : 22.87,
-         "z" : -0.04
-      },
-	  {
-         "pin" : "cyan",
-         "text" : "05 Strivie JG-Y e3",
-         "x" : 59650.31,
-         "y" : 24.59,
-         "z" : 0.07
-      },
-	  {
-         "pin" : "green",
-         "text" : "Final - Thuechoea ZE-A g0",
-         "x" : 59714.03,
-         "y" : 26.88,
-         "z" : -0.05
-      }
+     
+
    ]
 }
