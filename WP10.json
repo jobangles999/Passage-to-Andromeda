@@ -7,12 +7,34 @@
          "y" :  -48.75,
          "z" : 53262.78125
       },
-      {
+	  {
          "pin" : "cyan",
          "text" : "Flyoo Groa SO-Z e0 (DSSA Solsen’s Alastor / Alastor",
          "x" : -26482.4375,
          "y" : -78.78125,
          "z" : 50335.125
       }
+	  {
+         "pin" : "cyan",
+         "text" : "Flyoo Groa XW-W c4-13",
+         "x" :   -26476.0625,
+         "y" :   -75.75,
+         "z" : 50341.8125
+      },
+	  {
+         "pin" : "cyan",
+         "text" : "Eactaisky IR-N e6-2 (Eactaisky Stellar Remnant)",
+         "x" :  -19483.84375,
+         "y" :  8,
+         "z" : 43610.375
+      },
+	  {
+         "pin" : "redcarrier",
+         "text" : "Trignai MT-Q e5-28 (Trignai Blend)",
+         "x" :  -16355.875,
+         "y" :  -70.25,
+         "z" : 40895.34375
+      }
+
    ]
 }
