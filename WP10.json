@@ -2,35 +2,35 @@
    "markers" : [
       {
          "pin" : "carrier",
-         "text" : "1 Thuechoea ZE-A g0 \n(DSSA Shepard's Dream / Brothers And Sisters Of The Void)",
+         "text" : "WP and POI 1 Thuechoea ZE-A g0 \n(DSSA Shepard's Dream / Brothers And Sisters Of The Void)",
          "x" :  -26997.03125,
          "y" :  -48.75,
          "z" : 53262.78125
       },
 	  {
          "pin" : "carrier",
-         "text" : "2 Flyoo Groa SO-Z e0 \n(DSSA Solsen’s Alastor / Alastor",
+         "text" : "POI 2 Flyoo Groa SO-Z e0 \n(DSSA Solsen’s Alastor / Alastor",
          "x" : -26482.4375,
          "y" : -78.78125,
          "z" : 50335.125
       },
 	  {
          "pin" : "cyan",
-         "text" : "3 Flyoo Groa XW-W c4-13",
+         "text" : "POI 3 Flyoo Groa XW-W c4-13",
          "x" :   -26476.0625,
          "y" :   -75.75,
          "z" : 50341.8125
       },
 	  {
          "pin" : "cyan",
-         "text" : "4 Eactaisky IR-N e6-2 \n(Eactaisky Stellar Remnant)",
+         "text" : "POI 4 Eactaisky IR-N e6-2 \n(Eactaisky Stellar Remnant)",
          "x" :  -19483.84375,
          "y" :  8,
          "z" : 43610.375
       },
 	  {
          "pin" : "cyan",
-         "text" : "5 Trignai MT-Q e5-28 \n(Trignai Blend)",
+         "text" : "WP and POI 5 Trignai MT-Q e5-28 \n(Trignai Blend)",
          "x" :  -16355.875,
          "y" :  -70.25,
          "z" : 40895.34375
