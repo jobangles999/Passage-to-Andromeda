@@ -9,14 +9,14 @@
       },
 	  {
          "pin" : "carriergreen",
-         "text" : "POI 2 \nFlyoo Groa SO-Z e0\nDistance from Previous POI = 2,967Ly\nNotable Stellar Phenomena Solon Trees\n(DSSA Solsen’s Alastor)\n(Repair, Armoury, Universal Cartographics, Refuel)",
+         "text" : "POI 2 \nFlyoo Groa SO-Z e0\nDistance from Previous POI = 2,967Ly\nNotable Stellar Phenomena = Solon Trees\n(DSSA Solsen’s Alastor)\n(Repair, Armoury, Universal Cartographics, Refuel)",
          "x" : -26482.4375,
          "y" : -78.78125,
          "z" : 50335.125
       },
 	  {
          "pin" : "green",
-         "text" : "POI 3 \nFlyoo Groa XW-W c4-13\nDistance from Previous POI = 6Ly\nNotable Stellar Phenomena Solon Trees, Solon Pods and Ice Crystals",
+         "text" : "POI 3 \nFlyoo Groa XW-W c4-13\nDistance from Previous POI = 6Ly\nNotable Stellar Phenomena = Solon Trees, Solon Pods and Ice Crystals",
          "x" :   -26476.0625,
          "y" :   -75.75,
          "z" : 50341.8125
