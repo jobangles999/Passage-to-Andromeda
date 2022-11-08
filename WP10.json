@@ -2,7 +2,7 @@
    "markers" : [
       {
          "pin" : "carriergreen",
-         "text" : "WP9 and POI 1 \nThuechoea ZE-A g0 \n(DSSA Shepard's Dream - Brothers And Sisters Of The Void)\n(Refuel, Repair, Armoury, Redemption Office, Shipyard, Outfitting, UC)",
+         "text" : "Waypoint9 and POI 1 \nThuechoea ZE-A g0 \n(DSSA Shepard's Dream - Brothers And Sisters Of The Void)\n(Refuel, Repair, Armoury, Redemption Office, Shipyard, Outfitting, UC)",
          "x" :  -26997.03125,
          "y" :  -48.75,
          "z" : 53262.78125
@@ -30,7 +30,7 @@
       },
 	  {
          "pin" : "green",
-         "text" : "WP10 and POI 5 \nTrignai MT-Q e5-28 \n(Trignai Blend)",
+         "text" : "Waypoint10 and POI 5 \nTrignai MT-Q e5-28 \n(Trignai Blend)",
          "x" :  -16355.875,
          "y" :  -70.25,
          "z" : 40895.34375
