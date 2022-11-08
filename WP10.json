@@ -9,28 +9,28 @@
       },
 	  {
          "pin" : "carriergreen",
-         "text" : "POI 2 \nFlyoo Groa SO-Z e0\nDistance from Previous POI = 2,967Ly\nNotable Stellar Phenomena = Solon Trees\n(DSSA Solsen’s Alastor)\n(Repair, Armoury, Universal Cartographics, Refuel)",
+         "text" : "POI 2 \nFlyoo Groa SO-Z e0\nDistance from Previous POI = 2,967 Ly\nNotable Stellar Phenomena = Solon Trees\n(DSSA Solsen’s Alastor)\n(Repair, Armoury, Universal Cartographics, Refuel)",
          "x" : -26482.4375,
          "y" : -78.78125,
          "z" : 50335.125
       },
 	  {
          "pin" : "green",
-         "text" : "POI 3 \nFlyoo Groa XW-W c4-13\nDistance from Previous POI = 6Ly\nNotable Stellar Phenomena = Solon Trees, Solon Pods and Ice Crystals",
+         "text" : "POI 3 \nFlyoo Groa XW-W c4-13\nDistance from Previous POI = 6 Ly\nNotable Stellar Phenomena = Solon Trees, Solon Pods and Ice Crystals",
          "x" :   -26476.0625,
          "y" :   -75.75,
          "z" : 50341.8125
       },
 	  {
          "pin" : "green",
-         "text" : "POI 4 \nEactaisky IR-N e6-2 \nDistance from Previous POI = 9,259Ly\n(Eactaisky Stellar Remnant)",
+         "text" : "POI 4 \nEactaisky IR-N e6-2\nDistance from Previous POI = 9,259 Ly\n(Eactaisky Stellar Remnant)",
          "x" :  -19483.84375,
          "y" :  8,
          "z" : 43610.375
       },
 	  {
          "pin" : "green",
-         "text" : "Waypoint10 and POI 5 \nDistance from Previous POI = 4,083Ly\nTrignai MT-Q e5-28 \n(Trignai Blend)",
+         "text" : "Waypoint10 and POI 5 \nTrignai MT-Q e5-28\nDistance from Previous POI = 4,083 Ly\n(Trignai Blend)",
          "x" :  -16355.875,
          "y" :  -70.25,
          "z" : 40895.34375
