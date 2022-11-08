@@ -16,21 +16,21 @@
       },
 	  {
          "pin" : "green",
-         "text" : "POI 3 \nFlyoo Groa XW-W c4-13 \nDistance from Previous POI = 9Ly\nNSP Solon Trees, Solon Pods and Ice Crystals",
+         "text" : "POI 3 \nFlyoo Groa XW-W c4-13 \nDistance from Previous POI = 6Ly\nNSP Solon Trees, Solon Pods and Ice Crystals",
          "x" :   -26476.0625,
          "y" :   -75.75,
          "z" : 50341.8125
       },
 	  {
          "pin" : "green",
-         "text" : "POI 4 \nEactaisky IR-N e6-2 \nDistance from Previous POI = 12,231Ly\n(Eactaisky Stellar Remnant)",
+         "text" : "POI 4 \nEactaisky IR-N e6-2 \nDistance from Previous POI = 9,259Ly\n(Eactaisky Stellar Remnant)",
          "x" :  -19483.84375,
          "y" :  8,
          "z" : 43610.375
       },
 	  {
          "pin" : "green",
-         "text" : "Waypoint10 and POI 5 \nDistance from Previous POI = 16,315Ly\nTrignai MT-Q e5-28 \n(Trignai Blend)",
+         "text" : "Waypoint10 and POI 5 \nDistance from Previous POI = 4,083Ly\nTrignai MT-Q e5-28 \n(Trignai Blend)",
          "x" :  -16355.875,
          "y" :  -70.25,
          "z" : 40895.34375
