@@ -1,92 +1,92 @@
 {
    "markers" : [
       {
-         "pin" : "cyan",
-         "text" : "WP01 - Lave",
+         "pin" : "green",
+         "text" : "Waypoint 01\nLave",
          "x" : 75.75,
          "y" : 48.75,
          "z" : 70.75
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP02 - Prai Hypoo GF-E c10 (Guardian ruins - Àrsaidh Nebula sites)",
+         "pin" : "green",
+         "text" : "Waypoint 02\nPrai Hypoo GF-E c10 \n(Guardian ruins Àrsaidh Nebula sites)",
          "x" : -9308.09375,
          "y" : -406.1875,
          "z" : 7927.40625
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP03 - Colonia (Jaques Station)",
+         "pin" : "green",
+         "text" : "Waypoint 03\nColonia \n(Jaques Station)",
          "x" : -9530.5,
          "y" : -910.28125,
          "z" : 19808.125
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP04 - Stuemeae FG-Y d7561 (Explorer's Anchorage)",
+         "pin" : "green",
+         "text" : "Waypoint 04\nStuemeae FG-Y d7561 \n(Explorer's Anchorage)",
          "x" : 28.6875,
          "y" : -19.78125,
          "z" : 25899.6875
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP05 - Greeroi MT-O d7-3 (Greeroi Veil)",
+         "pin" : "green",
+         "text" : "Waypoint 05\nGreeroi MT-O d7-3 \n(Greeroi Veil)",
          "x" : 4617.96875,
          "y" : 1193.53125,
          "z" : 37984.65625
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP06 - Pru Bre PM-W e1-11 (Baade & Zwicky's Eye)",
+         "pin" : "green",
+         "text" : "Waypoint 06\nPru Bre PM-W e1-11 \n(Baade & Zwicky's Eye)",
          "x" : -2719.8125,
          "y" : 31.6875,
          "z" : 51799.84375
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP07 - Beagle Point (DSSA Distant Worlds 'Endeavour')",
+         "pin" : "green",
+         "text" : "Waypoint 07\nBeagle Point \n(DSSA Distant Worlds 'Endeavour')",
          "x" : -1111.5625,
          "y" : -134.21875,
          "z" : 65269.75
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP08 - Thueche LS-A d1-54 (Thueche Brahe Nebula)",
+         "pin" : "green",
+         "text" : "Waypoint 08\nThueche LS-A d1-54 \n(Thueche Brahe Nebula)",
          "x" : -13538.625,
          "y" : -253.15625,
          "z" : 52795.25
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP09 - Thuechoea ZE-A g0 (DSSA Shepard's Dream / Brothers And Sisters Of The Void)",
+         "pin" : "green",
+         "text" : "Waypoint 09\nThuechoea ZE-A g0 \n(DSSA Shepard's Dream / Brothers And Sisters Of The Void)",
          "x" :  -26997.03125,
          "y" : -48.75,
          "z" : 53262.78125
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP10 - Trignai MT-Q e5-28 (Trignai Blend)",
+         "pin" : "green",
+         "text" : "Waypoint 10\nTrignai MT-Q e5-28 \n(Trignai Blend)",
          "x" : -16355.875,
          "y" : -70.25,
          "z" : 40895.34375
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP11 - Juemeou GN-S e4-18 (Odysseus's Rest)",
+         "pin" : "green",
+         "text" : "Waypoint 11\nJuemeou GN-S e4-18 \n(Odysseus's Rest)",
          "x" :  -19204.5,
          "y" : -154.5625,
          "z" : 26659.84375
       },
 	  {
-         "pin" : "cyan",
-         "text" : "WP12 - Crooki PX-V c17-5 (Lonely Lantern Nebula)",
+         "pin" : "green",
+         "text" : "Waypoint 12\nCrooki PX-V c17-5 \n(Lonely Lantern Nebula)",
          "x" : -23057.3125,
          "y" : 696.125,
          "z" : 12528.84375
       },
       {
-         "pin" : "cyan",
-         "text" : "WP13 - Byaa Thoi GC-D d12-0 (Star One)",
+         "pin" : "green",
+         "text" : "Waypoint 13\nByaa Thoi GC-D d12-0 \n(Star One)",
          "x" : -35413.03125,
          "y" : -14.75,
          "z" : 3821.46875
