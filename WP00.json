@@ -1,64 +1,64 @@
 {
    "markers" : [
       {
-         "pin" : "green",
-         "text" : "Waypoint 01\nStart Point\nLave",
+         "pin" : "red",
+         "text" : "Waypoint 01\nStart Point\nLave \n0% Completed",
          "x" : 75.75,
          "y" : 48.75,
          "z" : 70.75
       },
 	  {
-         "pin" : "green",
-         "text" : "Waypoint 02\nPrai Hypoo GF-E c10 \n(Guardian ruins Àrsaidh Nebula sites)",
+         "pin" : "red",
+         "text" : "Waypoint 02\nPrai Hypoo GF-E c10 \n(Guardian ruins Àrsaidh Nebula sites) \n7% Completed",
          "x" : -9308.09375,
          "y" : -406.1875,
          "z" : 7927.40625
       },
 	  {
-         "pin" : "green",
-         "text" : "Waypoint 03\nColonia \n(Jaques Station)",
+         "pin" : "red",
+         "text" : "Waypoint 03\nColonia \n(Jaques Station) \n14% Completed",
          "x" : -9530.5,
          "y" : -910.28125,
          "z" : 19808.125
       },
 	  {
-         "pin" : "green",
-         "text" : "Waypoint 04\nStuemeae FG-Y d7561 \n(Explorer's Anchorage)",
+         "pin" : "red",
+         "text" : "Waypoint 04\nStuemeae FG-Y d7561 \n(Explorer's Anchorage) \n21% Completed",
          "x" : 28.6875,
          "y" : -19.78125,
          "z" : 25899.6875
       },
 	  {
-         "pin" : "green",
-         "text" : "Waypoint 05\nGreeroi MT-O d7-3 \n(Greeroi Veil)",
+         "pin" : "red",
+         "text" : "Waypoint 05\nGreeroi MT-O d7-3 \n(Greeroi Veil) \n29% Completed",
          "x" : 4617.96875,
          "y" : 1193.53125,
          "z" : 37984.65625
       },
 	  {
-         "pin" : "green",
-         "text" : "Waypoint 06\nPru Bre PM-W e1-11 \n(Baade & Zwicky's Eye)",
+         "pin" : "red",
+         "text" : "Waypoint 06\nPru Bre PM-W e1-11 \n(Baade & Zwicky's Eye) \n38% Completed",
          "x" : -2719.8125,
          "y" : 31.6875,
          "z" : 51799.84375
       },
 	  {
-         "pin" : "green",
-         "text" : "Waypoint 07\nBeagle Point \n(DSSA Distant Worlds 'Endeavour')",
+         "pin" : "red",
+         "text" : "Waypoint 07\nBeagle Point \n(DSSA Distant Worlds 'Endeavour') \n46% Completed",
          "x" : -1111.5625,
          "y" : -134.21875,
          "z" : 65269.75
       },
 	  {
-         "pin" : "green",
-         "text" : "Waypoint 08\nThueche LS-A d1-54 \n(Thueche Brahe Nebula)",
+         "pin" : "red",
+         "text" : "Waypoint 08\nThueche LS-A d1-54 \n(Thueche Brahe Nebula) \n56% Completed",
          "x" : -13538.625,
          "y" : -253.15625,
          "z" : 52795.25
       },
 	  {
-         "pin" : "green",
-         "text" : "Waypoint 09\nThuechoea ZE-A g0 \n(DSSA Shepard's Dream / Brothers And Sisters Of The Void)",
+         "pin" : "red",
+         "text" : "Waypoint 09\nThuechoea ZE-A g0 \n(DSSA Shepard's Dream / Brothers And Sisters Of The Void) \n64% Completed",
          "x" :  -26997.03125,
          "y" : -48.75,
          "z" : 53262.78125
