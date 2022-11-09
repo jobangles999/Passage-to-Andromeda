@@ -23,13 +23,6 @@
       },
 	  {
          "pin" : "green",
-         "text" : "POI 4 \nEactaisky IR-N e6-2\nDistance from Previous POI = 9,259 Ly\n(Eactaisky Stellar Remnant)",
-         "x" :  -19483.84375,
-         "y" :  8,
-         "z" : 43610.375
-      },
-	  {
-         "pin" : "green",
          "text" : "Waypoint10 and POI 5 \nTrignai MT-Q e5-28\nDistance from Previous POI = 4,083 Ly\n(Trignai Blend)",
          "x" :  -16355.875,
          "y" :  -70.25,
