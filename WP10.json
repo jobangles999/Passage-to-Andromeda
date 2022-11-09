@@ -23,7 +23,7 @@
       },
 	  {
          "pin" : "green",
-         "text" : "Waypoint10 and POI 5 \nTrignai MT-Q e5-28\nDistance from Previous POI = 4,083 Ly\n(Trignai Blend)",
+         "text" : "Waypoint10 and POI 4 \nTrignai MT-Q e5-28\nDistance from Previous POI = 4,083 Ly\n(Trignai Blend)",
          "x" :  -16355.875,
          "y" :  -70.25,
          "z" : 40895.34375
