@@ -2,28 +2,105 @@
    "markers" : [
       {
          "pin" : "green",
-         "text" : "Waypoint10 and POI 4 \nTrignai MT-Q e5-28\nDistance from Previous POI = 4,083 Ly\n(Trignai Blend)",
+         "text" : "Waypoint 10 Start Point\nTrignai MT-Q e5-28\nTrignai Blend",
          "x" :  -26997.03125,
          "y" :  -48.75,
          "z" : 53262.78125
       },
 	  {
          "pin" : "green",
-         "text" : "POI 2 \nFlyoo Groa SO-Z e0\nDistance from Previous POI = 2,967 Ly\nNotable Stellar Phenomena = Solon Trees\n(DSSA Solsen’s Alastor)\n(Repair, Armoury, Universal Cartographics, Refuel)",
-         "x" : -26482.4375,
-         "y" : -78.78125,
-         "z" : 50335.125
+         "text" : "POI 1 \nVegnaa ED-H b40-2\nDistance from Previous POI = 4,191 Ly\nMad Hatter's Geysers",
+         "x" : ,
+         "y" : ,
+         "z" : 
       },
 	  {
          "pin" : "green",
-         "text" : "POI 3 \nFlyoo Groa XW-W c4-13\nDistance from Previous POI = 6 Ly\nNotable Stellar Phenomena = Solon Trees, Solon Pods and Ice Crystals",
-         "x" :   -26476.0625,
-         "y" :   -75.75,
-         "z" : 50341.8125
+         "text" : "POI 2\nVegnaa FD-H b40-1\nDistance from Previous POI = 984 Ly\nMad Hatter Nebula",
+         "x" :   ,
+         "y" :   ,
+         "z" : 
       },
 	  {
          "pin" : "green",
-         "text" : "Waypoint10 and POI 4 \nTrignai MT-Q e5-28\nDistance from Previous POI = 4,083 Ly\n(Trignai Blend)",
+         "text" : "POI 3\Hypoi Graae AA-A h61\nnDistance from Previous POI = 172 Ly\nTheia",
+         "x" : -17416.65625,
+         "y" :   -645.25,
+         "z" : 35855.21875
+      },
+	  {
+         "pin" : "green",
+         "text" : "POI 4\nHypoi Graae IH-U e3-31\nDistance from Previous POI = 73 Ly\nCollapse of Moros",
+         "x" :   -16948.90625,
+         "y" :   -176.46875,
+         "z" : 35574.375
+      },
+	  	  {
+         "pin" : "green",
+         "text" : "POI 5\nHypao Brai XJ-R c20-2\nDistance from Previous POI = 38 Ly\nDoor to Heaven",
+         "x" :   -15202.75,
+         "y" :   883.84375,
+         "z" : 35677.59375
+      },
+	  {
+         "pin" : "green",
+         "text" : "POI 6\nHypao Brai RI-T c19-5\nDistance from Previous POI = 1,458 Ly\nDoor to Heaven Geysers",
+         "x" :   -15214.75,
+         "y" :   895,
+         "z" : 35637.96875
+      },
+	  {
+         "pin" : "green",
+         "text" : "POI 7 \nAiphaisty OD-T e3-4\nDistance from Previous POI = 1,458 Ly\nDSSA Carrier",
+         "x" :   -17932.5625,
+         "y" :   220.96875,
+         "z" : 34160.28125
+      },
+	  {
+         "pin" : "green",
+         "text" : "POI 8\nAiphaisty DP-C b27-2\nDistance from Previous POI = 30 Ly\nSteam Horse Nebula",
+         "x" :   -17789.15625,
+         "y" :   157.40625,
+         "z" : 34094.96875
+      },
+	  	  {
+         "pin" : "green",
+         "text" : "POI 9\nHypao Chreou LX-U e2-11\nDistance from Previous POI = 1,303 Ly\nCorsair's Treasure",
+         "x" :   -15182.84375,
+         "y" :   239.15625,
+         "z" : 32728.375
+      },
+	  	  {
+         "pin" : "green",
+         "text" : "POI 10\nGlaiseae SO-G c27-5\nDistance from Previous POI = 521 Ly\nCorsair's Nebula",
+         "x" :   -16115.65625,
+         "y" :   -86.0625,
+         "z" : 32121.40625
+      },
+	  	  {
+         "pin" : "green",
+         "text" : "POI 11\nDryo Brai AA-A h5\nDistance from Previous POI = 649 Ly\nSigma Star",
+         "x" :   -16472.8125,
+         "y" :   904.625,
+         "z" : 31520.6875
+      },
+	  	  {
+         "pin" : "green",
+         "text" : "POI 12\nEolls Graae PG-E b15-4\nDistance from Previous POI = 1,792 Ly\nBendurion's Present",
+         "x" :   -18874.84375,
+         "y" :   -613.625,
+         "z" : 29977.375
+      },
+	  	  {
+         "pin" : "green",
+         "text" : "POI 13\nScaulae ZL-C d13-11\nDistance from Previous POI = 357 Ly\nRusalka's Trilemma",
+         "x" :   -18636.84375,
+         "y" :   -772.21875,
+         "z" : 29569.53125
+      },
+	  {
+         "pin" : "green",
+         "text" : "Odysseus's Rest and Waypoint 11\nJuemeou GN-S e4-18\nDistance from Previous POI = 2,943 Ly\n(Trignai Blend)",
          "x" :  -16355.875,
          "y" :  -70.25,
          "z" : 40895.34375
