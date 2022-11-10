@@ -23,7 +23,7 @@
       },
 	  {
          "pin" : "green",
-         "text" : "POI 3\Hypoi Graae AA-A h61\nnDistance from Previous POI = 172 Ly\nTheia",
+         "text" : "POI 3\nHypoi Graae AA-A h61\nnDistance from Previous POI = 172 Ly\nTheia",
          "x" : -17416.65625,
          "y" :   -645.25,
          "z" : 35855.21875
