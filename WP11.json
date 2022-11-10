@@ -1,14 +1,14 @@
 {
    "markers" : [
       {
-         "pin" : "carriergreen",
-         "text" : "Waypoint9 and POI 1 \nThuechoea ZE-A g0\n(DSSA Shepard's Dream - Brothers And Sisters Of The Void)\n(Refuel, Repair, Armoury, Redemption Office, Shipyard, Outfitting, UC)",
+         "pin" : "green",
+         "text" : "Waypoint10 and POI 4 \nTrignai MT-Q e5-28\nDistance from Previous POI = 4,083 Ly\n(Trignai Blend)",
          "x" :  -26997.03125,
          "y" :  -48.75,
          "z" : 53262.78125
       },
 	  {
-         "pin" : "carriergreen",
+         "pin" : "green",
          "text" : "POI 2 \nFlyoo Groa SO-Z e0\nDistance from Previous POI = 2,967 Ly\nNotable Stellar Phenomena = Solon Trees\n(DSSA Solsen’s Alastor)\n(Repair, Armoury, Universal Cartographics, Refuel)",
          "x" : -26482.4375,
          "y" : -78.78125,
