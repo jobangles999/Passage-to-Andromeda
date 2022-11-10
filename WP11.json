@@ -3,9 +3,9 @@
       {
          "pin" : "green",
          "text" : "Waypoint 10 Start Point\nTrignai MT-Q e5-28\nTrignai Blend",
-         "x" :  -26997.03125,
-         "y" :  -48.75,
-         "z" : 53262.78125
+         "x" :   -16355.875,
+         "y" :  -70.25,
+         "z" : 40895.34375
       },
 	  {
          "pin" : "green",
@@ -101,9 +101,9 @@
 	  {
          "pin" : "green",
          "text" : "Odysseus's Rest and Waypoint 11\nJuemeou GN-S e4-18\nDistance from Previous POI = 2,943 Ly\n(Trignai Blend)",
-         "x" :  -16355.875,
-         "y" :  -70.25,
-         "z" : 40895.34375
+         "x" :  -19204.5,
+         "y" :  -154.5625,
+         "z" : 26659.84375
       }
    ]
 }
