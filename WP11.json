@@ -14,44 +14,44 @@
          "y" : 506.59375,
          "z" : 36929.78125
       },
-	  {
+	  }
          "pin" : "green",
-         "text" : "POI 2\nVegnaa FD-H b40-1\nMad Hatter Nebula\nDistance from Previous POI = 984 Ly",
+         "text" : "POI 2\nVegnaa FD-H b40-1\nMad Hatter Nebula\nDistance from Previous POI = 7 Ly",
          "x" :   -15117.625,
          "y" :   506.75,
          "z" : 36925.4375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 3\nHypoi Graae AA-A h61\nTheia\nnDistance from Previous POI = 172 Ly",
-         "x" : -17416.65625,
-         "y" :   -645.25,
-         "z" : 35855.21875
-      },
-	  {
-         "pin" : "green",
-         "text" : "POI 4\nHypoi Graae IH-U e3-31\nCollapse of Moros\nDistance from Previous POI = 73 Ly",
-         "x" :   -16948.90625,
-         "y" :   -176.46875,
-         "z" : 35574.375
-      },
-	  {
-         "pin" : "green",
-         "text" : "POI 5\nHypao Brai XJ-R c20-2\nDoor to Heaven\nDistance from Previous POI = 38 Ly",
+         "text" : "POI 3\nHypao Brai XJ-R c20-2\nDoor to Heaven\nDistance from Previous POI = 1230 Ly",
          "x" :   -15202.75,
          "y" :   883.84375,
          "z" : 35677.59375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 6\nHypao Brai RI-T c19-5\nDoor to Heaven Geysers\nDistance from Previous POI = 1,458 Ly",
+         "text" : "POI 4\nHypao Brai RI-T c19-5\nDoor to Heaven Geysers\nDistance from Previous POI = 38 Ly",
          "x" :   -15214.75,
          "y" :   895,
          "z" : 35637.96875
       },
 	  {
          "pin" : "green",
-         "text" : "POI 7 \nAiphaisty OD-T e3-4\nDSSA Carrier\nDistance from Previous POI = 1,458 Ly",
+         "text" : "POI 5\nHypoi Graae AA-A h61\nTheia\nnDistance from Previous POI = 383 Ly",
+         "x" : -17416.65625,
+         "y" :   -645.25,
+         "z" : 35855.21875
+      },
+	  {
+         "pin" : "green",
+         "text" : "POI 6\nHypoi Graae IH-U e3-31\nCollapse of Moros\nDistance from Previous POI = 172 Ly",
+         "x" :   -16948.90625,
+         "y" :   -176.46875,
+         "z" : 35574.375
+      },
+	  {
+         "pin" : "green",
+         "text" : "POI 7 \nAiphaisty OD-T e3-4\nDSSA Carrier\nDistance from Previous POI = 1,568 Ly",
          "x" :   -17932.5625,
          "y" :   220.96875,
          "z" : 34160.28125
