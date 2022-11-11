@@ -51,7 +51,7 @@
       },
 	  {
          "pin" : "whitecarrier",
-         "text" : "POI 7 \nAiphaisty OD-T e3-4\nDSSA Carrier\nDistance from Previous POI = 1,568 Ly",
+         "text" : "POI 7 \nAiphaisty OD-T e3-4\nDSSA Carrier\n(Refuel, Repair, Restock, Universal Cartographics)\nDistance from Previous POI = 1,568 Ly",
          "x" :   -17932.5625,
          "y" :   220.96875,
          "z" : 34160.28125
