@@ -37,17 +37,17 @@
       },
 	  {
          "pin" : "green",
-         "text" : "POI 5\nHypoi Graae AA-A h61\nTheia\nnDistance from Previous POI = 383 Ly",
-         "x" : -17416.65625,
-         "y" :   -645.25,
-         "z" : 35855.21875
-      },
-	  {
-         "pin" : "green",
-         "text" : "POI 6\nHypoi Graae IH-U e3-31\nCollapse of Moros\nDistance from Previous POI = 172 Ly",
+         "text" : "POI 5\nHypoi Graae IH-U e3-31\nCollapse of Moros\nDistance from Previous POI = 111 Ly",
          "x" :   -16948.90625,
          "y" :   -176.46875,
          "z" : 35574.375
+      },
+	  {
+         "pin" : "green",
+         "text" : "POI 6\nHypoi Graae AA-A h61\nTheia\nnDistance from Previous POI = 172 Ly",
+         "x" : -17416.65625,
+         "y" :   -645.25,
+         "z" : 35855.21875
       },
 	  {
          "pin" : "green",
