@@ -72,6 +72,13 @@
       },
 	  {
          "pin" : "green",
+         "text" : "POI 9\nHypao Chreou LX-U e2-11\nQ07 / Orio-Persean Depot\nDistance from Previous POI = 604 Ly",
+         "x" :   -17942.84375,
+         "y" :   102.84375,
+         "z" : 33508.75
+      },
+	  {
+         "pin" : "green",
          "text" : "POI 10\nHypao Chreou LX-U e2-11\nCorsair's Treasure\nDistance from Previous POI = 1,303 Ly",
          "x" :   -15182.84375,
          "y" :   239.15625,
