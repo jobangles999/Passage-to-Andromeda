@@ -65,14 +65,7 @@
       },
 	  {
          "pin" : "green",
-         "text" : "POI 9\nHypao Chreou LX-U e2-11\nQ07 / Orio-Persean Depot\nDistance from Previous POI = 604 Ly",
-         "x" :   -17942.84375,
-         "y" :   102.84375,
-         "z" : 33508.75
-      },
-	  {
-         "pin" : "green",
-         "text" : "POI 9\nHypao Chreou LX-U e2-11\nQ07 / Orio-Persean Depot\nDistance from Previous POI = 604 Ly",
+         "text" : "POI 9\nAiphaisty YE-A d130\nOrio-Persean Depot\nDistance from Previous POI = 604 Ly",
          "x" :   -17942.84375,
          "y" :   102.84375,
          "z" : 33508.75
@@ -107,7 +100,7 @@
       },
 	  {
          "pin" : "green",
-         "text" : "POI 14\nScaulae ZL-C d13-11\nRusalka's Trilemma\nDistance from Previous POI = 357 Ly",
+         "text" : "POI 15\nScaulae ZL-C d13-11\nRusalka's Trilemma\nDistance from Previous POI = 357 Ly",
          "x" :   -18636.84375,
          "y" :   -772.21875,
          "z" : 29569.53125
