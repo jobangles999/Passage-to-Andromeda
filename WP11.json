@@ -91,12 +91,19 @@
          "y" :   904.625,
          "z" : 31520.6875
       },
+	  	  {
+         "pin" : "whitecarrier",
+         "text" : "POI 13\nPlace = Eolls Graae TA-K c10-5\nName = DSSA Carrier\nDistance from previous POI  Ly",
+         "x" :   -18792.5625,
+         "y" :   -564.96875,
+         "z" : 29977.375
+      },
 	  {
          "pin" : "green",
-         "text" : "POI 13\nEolls Graae PG-E b15-4\nBendurion's Present\nDistance from Previous POI = 1,792 Ly",
+         "text" : "POI 14\nEolls Graae PG-E b15-4\nBendurion's Present\nDistance from Previous POI = 1,792 Ly",
          "x" :   -18874.84375,
          "y" :   -613.625,
-         "z" : 29977.375
+         "z" : 30120.3125
       },
 	  {
          "pin" : "green",
