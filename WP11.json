@@ -2,119 +2,105 @@
    "markers" : [
       {
          "pin" : "red",
-         "text" : "Waypoint 10 Start Point\nTrignai MT-Q e5-28\nTrignai Blend",
+         "text" : "POI 0\nTrignai MT-Q e5-28\nWaypoint 10\nDistance from previous POI =  Ly",
          "x" :   -16355.875,
          "y" :  -70.25,
          "z" : 40895.34375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 1 \nVegnaa ED-H b40-2\nMad Hatter's Geysers\nDistance from Previous POI = 4,191 Ly",
+         "text" : "POI 1\nVegnaa ED-H b40-2\nMad Hatter's Geysers\nDistance from previous POI = 4192 Ly",
          "x" : -15128.5,
          "y" : 506.59375,
          "z" : 36929.78125
       },
 	  {
          "pin" : "green",
-         "text" : "POI 2\nVegnaa FD-H b40-1\nMad Hatter Nebula\nDistance from Previous POI = 7 Ly",
+         "text" : "POI 2\nVegnaa FD-H b40-1\nMad Hatter Nebula\nDistance from previous POI = 8 Ly",
          "x" :   -15117.625,
          "y" :   506.75,
          "z" : 36925.4375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 3\nHypao Brai XJ-R c20-2\nDoor to Heaven\nDistance from Previous POI = 1230 Ly",
+         "text" : "POI 3\nHypao Brai XJ-R c20-2\nDoor to Heaven\nDistance from previous POI = 1230 Ly",
          "x" :   -15202.75,
          "y" :   883.84375,
          "z" : 35677.59375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 4\nHypao Brai RI-T c19-5\nDoor to Heaven Geysers\nDistance from Previous POI = 38 Ly",
+         "text" : "POI 4\nHypao Brai RI-T c19-5\nDoor to Heaven Geysers\nDistance from previous POI = 38 Ly",
          "x" :   -15214.75,
          "y" :   895,
          "z" : 35637.96875
       },
 	  {
          "pin" : "green",
-         "text" : "POI 5\nHypoi Graae IH-U e3-31\nCollapse of Moros\nDistance from Previous POI = 111 Ly",
+         "text" : "POI 5\nHypoi Graae IH-U e3-31\nCollapse of Moros\nDistance from previous POI = -110 Ly",
          "x" :   -16948.90625,
          "y" :   -176.46875,
          "z" : 35574.375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 6\nHypoi Graae AA-A h61\nTheia\nnDistance from Previous POI = 172 Ly",
+         "text" : "POI 6\nHypoi Graae AA-A h61\nTheia\nDistance from previous POI = -172 Ly",
          "x" : -17416.65625,
          "y" :   -645.25,
          "z" : 35855.21875
       },
 	  {
          "pin" : "whitecarrier",
-         "text" : "POI 7 \nAiphaisty OD-T e3-4\nDSSA Carrier\n(Refuel, Repair, Restock, Universal Cartographics)\nDistance from Previous POI = 1,568 Ly",
+         "text" : "POI 7\nAiphaisty OD-T e3-4\nDSSA Pride of Tel Fyr [K8N-LTJ] (Refuel, Repair, Armoury, Redemption Office, UC)\nDistance from previous POI = 1742 Ly",
          "x" :   -17932.5625,
          "y" :   220.96875,
          "z" : 34160.28125
       },
 	  {
          "pin" : "green",
-         "text" : "POI 8\nAiphaisty DP-C b27-2\nSteam Horse Nebula\nDistance from Previous POI = 30 Ly",
-         "x" :   -17789.15625,
-         "y" :   157.40625,
-         "z" : 34094.96875
-      },
-	  {
-         "pin" : "green",
-         "text" : "POI 9\nAiphaisty YE-A d130\nOrio-Persean Depot\nDistance from Previous POI = 604 Ly",
+         "text" : "POI 8\nAiphaisty YE-A d130\nOrio-Persean Depot\nDistance from previous POI = 634 Ly",
          "x" :   -17942.84375,
          "y" :   102.84375,
          "z" : 33508.75
       },
 	  {
          "pin" : "green",
-         "text" : "POI 10\nHypao Chreou LX-U e2-11\nCorsair's Treasure\nDistance from Previous POI = 1,303 Ly",
+         "text" : "POI 9\nHypao Chreou LX-U e2-11\nCorsair's Treasure\nDistance from previous POI = 700 Ly",
          "x" :   -15182.84375,
          "y" :   239.15625,
          "z" : 32728.375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 11\nGlaiseae SO-G c27-5\nCorsair's Nebula\nDistance from Previous POI = 521 Ly",
-         "x" :   -16115.65625,
-         "y" :   -86.0625,
-         "z" : 32121.40625
-      },
-	  {
-         "pin" : "green",
-         "text" : "POI 12\nDryo Brai AA-A h5\nSigma Star\nDistance from Previous POI = 649 Ly",
+         "text" : "POI 10\nDryo Brai AA-A h5\nSigma Star\nDistance from previous POI = 1170 Ly",
          "x" :   -16472.8125,
          "y" :   904.625,
          "z" : 31520.6875
       },
 	  	  {
          "pin" : "whitecarrier",
-         "text" : "POI 13\nPlace = Eolls Graae TA-K c10-5\nDSSA Carrier\nDistance from previous POI  Ly",
+         "text" : "POI 11\nEolls Graae TA-K c10-5\nDSSA Manatee [J4W-W8K] (Refuel, Repair, Armoury)\nDistance from previous POI = 1634 Ly",
          "x" :   -18792.5625,
          "y" :   -564.96875,
          "z" : 29977.375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 14\nEolls Graae PG-E b15-4\nBendurion's Present\nDistance from Previous POI = 1,792 Ly",
+         "text" : "POI 12\nEolls Graae PG-E b15-4\nBendurion's Present\nDistance from previous POI = 160 Ly",
          "x" :   -18874.84375,
          "y" :   -613.625,
          "z" : 29977.375
       },
 	  {
          "pin" : "green",
-         "text" : "POI 15\nScaulae ZL-C d13-11\nRusalka's Trilemma\nDistance from Previous POI = 357 Ly",
+         "text" : "POI 13\nScaulae ZL-C d13-11\nRusalka's Trilemma\nDistance from previous POI = 358 Ly",
          "x" :   -18636.84375,
          "y" :   -772.21875,
          "z" : 29569.53125
       },
 	  {
          "pin" : "cyan",
-         "text" : "Waypoint 11 or Odysseus's Rest\nJuemeou GN-S e4-18\nTrignai Blend\nDistance from Previous POI = 2,943 Ly",
+         "text" : "POI 14\nJuemeou GN-S e4-18\nWaypoint 11 and Odysseus's Rest\nDistance from previous POI = 2944 Ly",
          "x" :  -19204.5,
          "y" :  -154.5625,
          "z" : 26659.84375
