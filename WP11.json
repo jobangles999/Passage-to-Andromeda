@@ -2,7 +2,7 @@
    "markers" : [
       {
          "pin" : "red",
-         "text" : "POI 0\nTrignai MT-Q e5-28\nWaypoint 10\nDistance from previous POI =  Ly",
+         "text" : "POI 0\nTrignai MT-Q e5-28\nWaypoint 10",
          "x" :   -16355.875,
          "y" :  -70.25,
          "z" : 40895.34375
