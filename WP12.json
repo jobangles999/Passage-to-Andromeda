@@ -28,6 +28,13 @@
          "y" : 339.4375,
          "z" : 21178.1875
       },
+	  	  {
+         "pin" : "green",
+         "text" : "POI 3a Floasly TE-X d2-25",
+         "x" : -17387.15625,
+         "y" : -219.5,
+         "z" : 14558
+      },
   	  {
          "pin" : "carrierwhite",
          "text" : "POI 4 Whanu KU-V b17-0",
