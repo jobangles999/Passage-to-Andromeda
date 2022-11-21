@@ -9,17 +9,17 @@
       },
 	  {
          "pin" : "green",
-         "text" : "POI 1\nPria Phla RY-I d9-2\n\nDistance from previous POI = 6849.69 Ly",
-         "x" : -28729.09375,
-         "y" : 227.375,
-         "z" : 8717.09375
-      },
-	  {
-         "pin" : "green",
-         "text" : "POI 2\nPleia Phla QA-A c1\n\nDistance from previous POI = 604.6 Ly",
+         "text" : "POI 1\nPleia Phla QA-A c1\n\nDistance from previous POI = 604.6 Ly",
          "x" : -27555.78125,
          "y" : 11.03125,
          "z" : 6624.53125
+      },
+	  {
+         "pin" : "green",
+         "text" : "POI 2\nPria Phla RY-I d9-2\n\nDistance from previous POI = 6849.69 Ly",
+         "x" : -28729.09375,
+         "y" : 227.375,
+         "z" : 8717.09375
       },
 	  {
          "pin" : "green",
