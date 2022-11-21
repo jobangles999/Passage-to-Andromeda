@@ -37,7 +37,7 @@
       },
 	  	  {
          "pin" : "green",
-         "text" : "POI 5\nByeia Thoea ES-J c22-0\n\nDistance from previous POI = 2526.25 Ly",
+         "text" : "POI 5\nByeia Thoea ES-J c22-0\nDistance from previous POI = 2526.25 Ly",
          "x" : -32842.3125,
          "y" : 4.8125,
          "z" : 3774.3125
