@@ -9,14 +9,14 @@
       },
 	  {
          "pin" : "green",
-         "text" : "POI 1\nPloi Airg KR-N d6-34\n\nDistance from Waypoint 12 = 1366.58 Ly",
+         "text" : "POI 1\nPloi Airg KR-N d6-34\nDistance from Waypoint 12 = 1366.58 Ly",
          "x" : -31402.09375,
          "y" : 41.21875,
          "z" : 9746.125
       },
   	  {
          "pin" : "green",
-         "text" : "POI 2\nPraea Phlai HH-M d7-9\n\nDistance from Waypoint 12 = 1800.73 Ly",
+         "text" : "POI 2\nPraea Phlai HH-M d7-9\nDistance from Waypoint 12 = 1800.73 Ly",
          "x" : -32891.9375,
          "y" : 186.1875,
          "z" : 8549.09375
